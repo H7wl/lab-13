@@ -4,7 +4,7 @@ import folium
 from streamlit_folium import st_folium
 
 # URL вашего GeoJSON-файла на GitHub
-geojson_url = "https://raw.githubusercontent.com/ArtyomKeith/lab13_iv/main/campus.geojson"
+geojson_url = "https://raw.githubusercontent.com/H7wl/lab-13/main/campus.geojson"
 
 # Загрузка GeoJSON
 @st.cache_data
